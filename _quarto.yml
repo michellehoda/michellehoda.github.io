@@ -1,0 +1,39 @@
+# This is the main configuration file for your Quarto website.
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Michelle Hoda Wilkerson"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "CV"
+        
+    right:
+      - icon: github
+        href: "https://github.com/your-username"
+      - icon: google
+        href: "https://github.com/your-username" 
+      - icon: flower1
+        href: "https://github.com/your-username"
+      - icon: calendar-check
+        href: "https://github.com/your-username"
+
+# Bibliography settings
+#bibliography: references.bib
+bibliography: references.bib
+csl: apa-cv.csl
+suppress-bibliography: true
+link-citations: false
+citations-hover: false
+
+# Appearance settings
+format:
+  html:
+    theme: journal  # I like the orangey pink
+    mainfont: "Lora"  # A readable serif font for the main text
+    css: "styles.scss" # You can add a styles.css file for custom tweaks
+    toc: true
+    linestretch: 1.3
+    fontsize: 10pt
