@@ -1,0 +1,29 @@
+/*-- scss:defaults --*/
+
+h1 {
+  font-family: serif;
+  color: #777;
+  line-height: 2.5em;
+}
+
+h2 {
+  font-family: serif;
+  font-weight: bold;
+  font-variant: small-caps;
+}
+
+h3, h4, h5, h6 {
+  font-family: serif;
+  color: #999;
+  font-weight: normal;
+  font-variant: small-caps;
+  font-size: 12pt;
+}
+
+.flushright {
+  float: right;
+}
+
+.list-indent {
+  padding-left: 2rem;
+}
