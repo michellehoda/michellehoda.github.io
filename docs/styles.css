@@ -26,4 +26,33 @@ h3, h4, h5, h6 {
 
 .list-indent {
   padding-left: 2rem;
+  font-size: 10pt;
+}
+
+.centered {
+  text-align: center;
+}
+
+ol, ul {
+  font-size: 10pt;
+}
+
+
+@media (min-width: 768px) {
+  /* Create a 2-column container inside the text area */
+  .nested-scrolly {
+    display: grid;
+    grid-template-columns: .75fr 1.75fr; /* Text is wider than image */
+    gap: 2rem;
+    align-items: start; /* Crucial for sticky to work */
+  }
+
+  /* The image container */
+  .sticky-col {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 5rem; /* Distance from top of screen */
+    height: auto;
+    background-color: white;
+  }
 }

@@ -1,0 +1,22 @@
+---
+title: "Projects"
+
+format:
+  closeread-html:
+    theme: cosmo
+    cr-section:
+      layout: sidebar-left # Options: sidebar-left, sidebar-right, overlay-left
+
+about:
+  template: trestles  # Options: jolla, trestles, solana, marquee
+  links:
+    - text: "{{< ai google-scholar >}}"
+      href: https://twitter.com
+    - text: "{{< ai orcid >}}"
+      href: https://github.com
+    - text: "{{< ai osf >}}"
+      href: https://twitter.com
+---
+
+
+Text goes here

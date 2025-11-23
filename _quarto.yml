@@ -8,17 +8,23 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: "CV"
+        text: Home
+      - href: cv.qmd
+        text: CV
+#      - href: projects.qmd -- working on it
+#        text: Projects 
+#      - href: teaching.qmd -- do it later (listing)
+#        text: Teaching
+#      - href: Resources.qmd -- do it later (listing)
+#        text: Resources
         
     right:
       - icon: github
-        href: "https://github.com/your-username"
-      - icon: google
-        href: "https://github.com/your-username" 
-      - icon: flower1
-        href: "https://github.com/your-username"
-      - icon: calendar-check
-        href: "https://github.com/your-username"
+        href: "https://github.com/michellehoda"
+      - icon: building
+        href: "https://bse.berkeley.edu/michelle-hoda-wilkerson"
+      - icon: house-heart
+        href: "https://corelab.berkeley.edu"
 
 # Bibliography settings
 #bibliography: references.bib
@@ -36,4 +42,4 @@ format:
     css: "styles.css" # You can add a styles.css file for custom tweaks
     toc: true
     linestretch: 1.3
-    fontsize: 10pt
+    fontsize: 12pt

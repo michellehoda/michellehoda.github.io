@@ -1,0 +1,62 @@
+---
+title: ""
+about:
+  template: marquee  # Options: jolla, trestles, solana, marquee
+  links:
+    - text: "{{< ai google-scholar >}}"
+      href: https://twitter.com
+    - text: "{{< ai orcid >}}"
+      href: https://github.com
+    - text: "{{< ai osf >}}"
+      href: https://twitter.com
+toc: false
+---
+
+<br> <br> <br>
+
+::: {.nested-scrolly}
+
+::: {.sticky-col}
+![](img/syw.png)
+[Visit on Github]()  
+[Stay Connected]()
+:::
+
+<div>
+
+**Show Your Work** I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible.
+</div>
+
+::: {.sticky-col}
+![](img/moda.png)
+[Visit Project Site]()
+:::
+
+<div>
+
+**Computational Models + Data (MoDa)** I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible.
+
+<br><br><br><br> **Step 2** We are still talking about the same diagram, so it stays stuck to the top of the view while you read this. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible.
+</div>
+
+::: {.sticky-col}
+![](img/syw.png)
+[Visit Project Site]()
+:::
+
+**Data Science Education Research Initiative** I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible.
+
+::: {.sticky-col}
+![](img/wds.png)
+[Visit Project Site]()
+:::
+
+**Writing Data Stories** I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible. I study how students use notebooks. As you scroll down this text, the image to the right stays visible.
+
+::: {.sticky-col}
+![](img/syw.png)
+:::
+
+::: 
+## Conclusion
+Back to normal text that spans the full width of the content area.

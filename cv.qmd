@@ -1,0 +1,486 @@
+---
+title: "Michelle Hoda Wilkerson"
+---
+
+<br>
+
+**University of California, Berkeley** | Berkeley, CA, USA  
+Associate Professor, School of Education [2021 - Present]{.flushright}  
+Assistant Professor, School of Education [2016 - 2021]{.flushright}
+
+**Tufts University** | Medford, MA, USA  
+Assistant Professor, Department of Education [2011 - 2015]{.flushright}
+
+**Northwestern University** | Evanston, IL, USA  
+Graduate Student, Learning Sciences Program [2005 - 2011]{.flushright}
+
+**University of California, San Diego** | San Diego, CA, USA  
+Undergraduate Research Assistant, San Diego Supercomputer Center [2003-2005]{.flushright}
+
+**University of Oklahoma** | Norman, OK, USA  
+Undergraduate Research Assistant, Human-Computer Interaction Center [2003]{.flushright}
+
+## Education
+
+**Northwestern University** | Evanston, IL, USA   
+Learning Sciences (PhD) [2012]{.flushright}
+
+**University of San Diego** | San Diego, CA, USA   
+Mathematics (BA); Diversified Liberal Arts (BA) [2005]{.flushright}
+
+## Publications
+
+###  Edited Special Issues and Books
+
+<ol reversed>
+<li> @wilkerson_situating_2020</li>
+<li> @wilkerson_situating_2022</li>
+<li> @wilkerson_stories_2020</li>
+</ol>
+
+### Refereed Journal Articles
+
+<ol reversed>
+<li>@wilkerson_how_2025-1</li>
+<li>@wilkerson_mapping_2025</li>
+<li>@wilkerson_how_2025</li>
+<li>@wagh_toward_2025</li>
+<li>@fuhrmann_right_2025</li>
+<li>@lanouette_exploring_2024</li>
+<li>@reigh_mapping_2022</li>
+<li>@wilkerson_exploring_2022</li>
+<li>@lee_call_2021</li>
+<li>@erickson_data_2019</li>
+<li>@quan_empowerment_2019</li>
+<li>@shaban_co-construction_2019</li>
+<li>@wilkerson_middle_2018</li>
+<li>@wilkerson_epistemic_2018</li>
+<li>@wilkerson_more_2018</li>
+<li>@wilkerson_whats_2016</li>
+<li>@wilkerson_balancing_2015</li>
+<li>@wilkerson_patterns_2015</li>
+<li>@wilkerson_exploring_2015</li>
+<li>@wilkerson_construction_2014</li>
+<li>@bautista_mathematics_2014</li>
+<li>@wilkerson_how_2011</li>
+<li>@wilkerson_agents_2009</li>
+</ol>
+
+### Book Chapters
+
+<ol reversed>
+<li>@barton_layered_nodate</li>
+<li>@reigh_critical_nodate</li>
+<li>@biehler_new_2025</li>
+<li>@wilkerson_learning_2022</li>
+<li>@holbert_storytelling_2020</li>
+<li>@disalvo_teachers_2017</li>
+<li>@treagust_integrating_2017</li>
+<li>@wilkerson_practice_2017</li>
+<li>@hammond_datasketch_2017</li>
+<li>@beer_magics_2011</li>
+</ol>
+
+### Invited Contributions and Book Reviews
+
+<ol reversed>
+<li>@henrique_who_2023</li>
+<li>@wilkerson_foreword_nodate</li>
+<li>@wilkerson_open_2015</li>
+</ol>
+
+### Technical Reports
+
+<ol reversed>
+<li>@lee_data_2022</li>
+<li>@pimentel_tools_2022</li>
+<li>@wilkerson_openscied_2018</li>
+<li>@lee_data_2018</li>
+<li>@berland_expressive_2017</li>
+<li>@finzer_writing_2020</li>
+</ol>
+
+## Awards and Sponsorships
+
+:::{.list-indent} 
+**Mid-Career Workshop** International Society of the Learning Sciences [2022]{.flushright}.  
+**Reviewer of the Year** Journal of the Learning Sciences [2021]{.flushright}  
+**Jan Hawkins Award** American Educational Research Association Division C [2020]{.flushright}  
+**Transformative Teacher Educator Fellowship** Arcadia University [2018]{.flushright}  
+**Early Career Development (CAREER) Award** National Science Foundation [2014]{.flushright}  
+**Early Career Workshop** International Conference of the Learning Sciences [2014]{.flushright}  
+**New Faculty Mentoring Program** AERA Division C [2012]{.flushright}  
+**Best Student Paper** AERA Special Interest Group in Learning Sciences/Advanced Tech for Learning [2010]{.flushright}  
+**Student Travel Sponsorship** Models in Developing Math Ed Conference [2009]{.flushright}  
+**Best Student Poster** Southern California-Nevada Section of the Mathematical Association of America Fall Meeting [2005]{.flushright}
+:::
+
+## Grants
+
+### Active External Grants
+
+:::{.list-indent} 
+PI, **NSF Innovative Technology Experiences for Students and Teachers (ITEST)**	[2025-2028]{.flushright}  
+Integrating Computational Modeling with Data in Environmental Sciences  
+(Award 2445609; $1.3M; with Wagh at Concord Consortium; Fuhrmann & Blikstein at Teachers College Columbia)  
+PI, **NSF Organizational Postdoctoral Research Fellowship (oPRF)** [2024-2027]{.flushright}  
+The Berkeley Data Science Education Fellowship: Ethical and Inclusive Data Science in a Shifting Landscape  
+(Award 2430522; $1.25M; with Z. Pardos, A. Strang, E. Van Dusen, C. Von Vacano, and L. Yan)  
+Co-PI, **University of California Office of the President Climate Action Seed Grant** [2023-2025]{.flushright}  
+Supporting Teachers in Implementing Justice-Centered Climate Change Pedagogy   
+($1.4M; led by BSE/CoRE Research Scientist Helen Fitzmaurice)
+:::
+
+### Completed External Grants
+
+:::{.list-indent} 
+PI, **Google Computer Science Education Research Gift**	[2021-2024]{.flushright}  
+Beyond CS for all and toward CS for racial justice: Youth historical reauthoring of computing artifacts  
+($55K; with undergraduates Simonei Medina, Naomi Yonas & former graduate student Collette Roberto)  
+PI (subawardee), **NSF Discovery Research K12 Level II** [2020-2025]{.flushright}  
+From Access to Sustainability: Investigating Ways to Foster Computational Modeling in K-12 Science Classrooms   
+(DRL-2010413, $130K subcontract with Teachers College at Columbia University; $2M total)   
+PI, **George Lucas Education Foundation Equity-Centered Learning Environments** [2021-2024]{.flushright}  
+The Computing as Multiliteracies Partnership (CaMP)  
+($200K; with Cherise McBride, Kris Gutierrez, Chris Hoadley, Jasmine Ma, Laura Ascenzi-Moreno, Sara Vogel)  
+PI, **NSF STEM + Computing Partnerships Program** [2019-2024]{.flushright}  
+Writing Data Stories: Integrating Computational Data Investigations into the Middle School Science Classroom  
+(IIS-1900606, $2.4M; with Kris Gutierrez, William Finzer, Anthony Petrosino, Hollylynne Lee)  
+PI, **NSF Early CAREER Award** [2014-2020]{.flushright}  
+DataSketch: Exploring Computational Data Visualization Literacy in the Middle Grades (IIS-1350282, $599,996)  
+PI (subawardee), **NSF Cyberlearning Development and Implementation Plan** [2015-2019]{.flushright}  
+Data Science Games - Student Immersion in Data Science Using Games for Learning in the Common Online Data Analysis Platform (IIS-1530578, $227,435 subcontract with Concord Consortium; $1,348,808 total)  
+PI, **NSF Discovery Research K12 Exploratory Learning** [2014-2018]{.flushright}  
+CodeR4STATS: Code R for AP Statistics and Common Core Statistical Concepts  
+(DRL-1418163, $469,936; with Co-PI Eric Simoneau, Boston Latin School)    
+PI, **NSF Cyberlearning Capacity-Building**	[2015-2017]{.flushright}   
+Data Science, Learning and Youth: Connecting Research and Creating Frameworks  
+(IIS-1541676, $49,958; with Co-PIs Tapan Parikh, Joseph Polman, Victor Lee)   
+PI, **NSF Cyberlearning Exploratory** [2012-2017]{.flushright}  
+SiMSAM: Bridging Student, Scientific, and Mathematical Models with Expressive Technologies  
+(IIS-1217100, $546,353; with Brian Gravel, Tufts University; transferred to Gravel upon move to UCB)
+:::
+
+### Internal Grants
+
+:::{.list-indent} 
+**UC Berkeley Student Technology Fund** ($5,000) Educational Robotics Library [2017]{.flushright}  
+**Tufts Faculty Research Fund** ($3,599) Data Visualization for Middle School [2012]{.flushright}  
+**Northwestern U. Community Building Grant** ($2,914, renewed for $1,500)  [2009-2011]{.flushright}  
+Constructing for Learning: An Open House for Technologies in Education
+:::
+
+## Refereed Conference Proceedings
+
+### Full Papers [Stringently Refereed]
+
+<ol reversed>
+<li>@fitzmaurice_activism_2024 -- *Best Paper Award*</li>
+<li>@eloy_decomposing_2024 -- *Best Student Paper Award*</li>
+<li>@fuhrmann_how_2023</li>
+<li>@vogelstein_storytelling_2023</li>
+<li>@wagh_moda_2022</li>
+<li>@lopez_curricular_2021 -- *Best Design Paper Nominee*</li>
+<li>@erickson_data_2018</li>
+<li>@wilkerson_exploring_2017</li>
+<li>@deitrick_understanding_2017</li>
+<li>@walkoe_technology-mediated_2017</li>
+<li>@bautista_diversity_2013</li>
+<li>@wilkerson_designed_2011</li>
+<li>@wilkerson_restructuring_2010</li>
+<li>@stonedahl_re-conceiving_2009</li>
+<li>@wilkerson_understanding_2009</li>
+<li>@wilkerson_how_2008</li>
+<li>@denning_multimodal_2006</li>
+<li>@wilkerson_ubiquitous_2005</li>
+</ol>
+
+### Short Papers, Posters, and Workshop Leadership
+
+<ol reversed>
+<li>@kemble_storytelling_2024</li>
+<li>@lee_data_2024</li>
+<li>@wagh_ontological_2023-1</li>
+<li>@reigh_paths_2022-1</li>
+<li>@roberto_student_2022-1</li>
+<li>@wolf_after_2022-1</li>
+<li>@wilkerson_reflective_2021</li>
+<li>@thoma_it_2017</li>
+<li>@wilkerson_data_2018</li>
+<li>@wilkerson_youth_2017</li>
+<li>@laina_distributions_2016</li>
+<li>@wilkerson_simsam_2013</li>
+<li>@wilkerson_netlogo_2010</li>
+<li>@wilkerson_perceptual_2008</li>
+</ol>
+
+### Invited Papers, Symposium and Workshop Participations
+
+<ol reversed>
+<li>Reigh, E., McBride, C., & Wilkerson, M. H. (2024). Syncretic approaches to data science: Towards consequential learning. In K. Jones & C. McBride (Orgs.), Applying Syncretic Frameworks in the Learning Sciences. Symposium in <i>Proceedings of the 2024 Annual Meeting of the International Society for the Learning Sciences (ISLS ’23)</i>, June 10-15. ISLS: Buffalo, NY, USA.</li>
+<li>Eloy, A., Wolf, J., Wagh, A., Fuhrmann, T., Bumbacher, E., Wilkerson, M. H., & Blikstein, P. (2022). A2S: Designing an integrated platform for computational modeling & data analysis for sustained investigations in science classrooms. Interactive Workshop in <i>Proceedings of the 2022 Annual Meeting of the International Society for the Learning Sciences (ISLS 2022)</i>. ISLS: Tokyo, Japan.</li>
+<li>Wei, C.*, McBride, C.‡, Bakal, M.*, Roberto, C.*, Bhargava, P., and Wilkerson, M. H. (2022). Storytelling with data: A syncretic approach that brings together social justice with middle school science. In J. Polman, I. Tabak, & T. Tran (Orgs.), Cultivating Critical, Justice-Oriented Data Literacies in a Post-Truth World. Structured poster session in <i>Proceedings of the 2022 Annual Meeting of the International Society for the Learning Sciences (ISLS 2022)</i>. ISLS: San Diego, CA.</li>
+<li>Wei, C.*, McBride, C.‡, & Wilkerson, M. H. (2022). Storytelling with data in the third space: Leveraging students’ syncretic literacies for scientific investigation and social change. In C. Matuk, A. Amato, & I. Davidesco (Orgs.), Data Storytelling in the Classroom. Structured poster session in <i> Proceedings of the 2022 Annual Meeting of the International Society for the Learning Sciences (ISLS 2022)</i>. ISLS: San Diego, CA.
+<li>Wagh, A., Fuhrmann, T., Eloy, A., Wolf, J., Bumbacher, E., Wilkerson, M. H., & Blikstein, P. (2022). Strategies towards designing for sustained engagement in computational modeling in science classrooms. Poster in <i>Proceedings of the 2022 Annual Meeting of the International Society for the Learning Sciences (ISLS 2022)</i>. ISLS: San Diego, CA.</li>
+<li>Wilkerson, M. H., Roberto, C.*, & Bulalacao, N.* (2020/conference online due to COVID-19). Debugging data: Diagnosing, evaluating, and repairing data for analysis. In Y. Kafai (Org.) & J. Danish (Disc.), Turning bugs into learning opportunities: Understanding debugging processes, perspectives and pedagogies. In <i>Proceedings of the 14th International Conference for the Learning Sciences (ICLS 2020)</i>. Nashville, TN, USA: ISLS.</li>
+<li>Lanouette, K.‡, Rivero, E.*, Barton, J.*, Bulalacao, N.*, Lopez, M. L.*, Cortes, K.*, Roberto, C.*, Gutiérrez, K., Wilkerson, M. H., Lee, H., Stokes, D.*, Finzer, W., Erickson, T., Petrosino, T., Haldar, L. (2020/conference online due to COVID-19). Writing data stories: Reauthoring scientific data through syncretic computational investigations in middle school science. In C. Matuk & S. Yoon (Orgs.) and J. Polman (Disc.), Data literacy for social justice. In <i>Proceedings of the 14th International Conference for the Learning Sciences (ICLS 2020)</i>. Nashville, TN, USA: ISLS.</li>
+<li>Lopez, M. L.*, Wilkerson, M. H., & Gutiérrez, K. (2020/conference online due to COVID-19). Contextualizing, historicizing, and re-authoring data-as-text in the middle school science classroom. In G. Arastoopour Irgens, S. Knight, & A. Wise (Org.) Data literacies and social justice: Exploring critical data literacies through sociocultural perspectives. In <i>Proceedings of the 14th International Conference for the Learning Sciences (ICLS 2020)</i>. Nashville, TN, USA: ISLS.</li>
+<li>Lesh, R., Brady, C. & Wilkerson-Jerde, M. (2011). Models and Modeling Working Group. Workshop in <i>Proceedings of the 2011 meeting of the Psychology of Mathematics Education–North American Chapter (PME-NA)</i> (pp. 638-647). Reno, NV.</li>
+<li>Wilkerson-Jerde, M. & Wilensky, U. (2010). Seeing change in the world from different levels: Understanding the mathematics of complex systems. In M. Jacobson (Org.), U. Wilensky (Chair), and P. Reimann (Disc.), Learning about Complexity and Beyond: Theoretical and Methodological Implications for the Learning Sciences. In K. Gomez & J. Radinsky (Ed.), <i>Proceedings of the 9th International Conference of the Learning Sciences (ICLS 2010)</i> (Vol 2, pp. 187-194). Chicago, IL. </li>
+</ol>
+
+## Invited Talks
+
+### Academic Talks
+
+<ul>
+<li>**Keynote Presentation at CERME-14 (Dialog with Rolf Biehler)** (Feb 2025). The new role of data in society: Challenges and opportunities for mathematics education in the age of data science and AI. Bozen-Bolzano, Italy.</li>
+<li>**University of Paderborn Colloquium Series on Data Science and Artificial Intelligence in School** (June 2022). A Framework for Exploring the Purposes and Processes of Data Wrangling in Complex Self-Directed Analysis Tasks University of Paderborn, Germany. (Lecture delivered online)  </li>
+<li>**BSCS Science Learning Seminar Series** (May 2022).  Learning through Data, Experience, and Histories in the Writing Data Stories Project. BSCS Science Learning, Colorado Springs, CO, USA. (Lecture delivered online)  </li>
+<li>**2021 Jan Hawkins Award Address** (April 2021). Learning from Youths’ Resistance in the Design of Scientific Computing Activities. Annual Conference of the American Educational Research Association, Conference Online Only. </li>
+<li>**Plenary at 2020 Online Seminar Series on Programming in Mathematics Education** (July 2020). Computing with Data as a Window on the World. Western University, London, Ontario, Canada. (Lecture delivered online) </li>
+<li>**Keynote at 2019 Conference on Mathematics and its Connections to Arts and Science** (May 2019). Putting Artistic and Mathematical Expression into Conversation Through Computing. McGill University, Quebec, Montreal, Canada. </li>
+<li>**Data Science Education Technology Webinar Series** (November 2017). Data Moves and Data Stories. Concord Consortium, Concord, MA, USA. (Lecture delivered online) </li>
+<li>**Keynote at the Computational Thinking and Mathematics Education Symposium** (October 2017). Computational Integration to Support Expression, Refinement, and Collective Knowledge in Classroom Communities. University of Ontario Institute of Technology, Ontario, Canada. </li>
+<li>**SRI International STEM Education Colloquium Series** (May 2017).  Tools to Support Scientific Expression, Exploration, and Progress in K-12 Classrooms. SRI International, Menlo Park, CA, USA. </li>
+<li>**Michigan State University CREATE for STEM Science Seminar Series** (April 2017). Putting Student Ideas to Work: Tools to Support Scientific Expression and Progress in K-12 Classrooms. Michigan State University, East Lansing, MI. </li>
+<li>**Modeling and Model-Based Reasoning in STEM Conference** (Aug 2016). Student Authorship and Computational Tools in K-12 Models-Based Education. Purdue University, IN. </li>
+<li>**California Academy of Sciences** (July 2016). Supporting Data Visualization Literacy in Middle School. Teacher and Youth Engagement Team. San Francisco, CA. </li>
+<li>**Stanford University** (April 2016). Classroom Computational Modeling Ecologies. Weiman & Schwartz Research Groups, Stanford, CA. </li>
+<li>**Gordon Research Conference on Visualization in Science and Education Plenary** (August 2015). Expressive technologies and learning by building visualizations. Bates College, Lewiston, ME.</li>
+<li>**University of Maryland** (March 2015). Coordinating mathematical, representational, and domain-specific knowledge in data visualization design. Center for Math Education Colloquium Series. College Park, MD.</li>
+<li>**Cyberlearning 2015: Connect, Collaborate, and Create the Future** (January 2015). DataSketch: Exploring youths’ data visualization competencies [Short Talk]. Washington, DC.</li>
+<li>**2014 Cyberlearning Summit** (June 2014). Connecting young people’s expressive activities with the tools of math and science. Wisconsin Union, University of Wisconsin-Madison, WI.</li>
+<li>**Massachusetts Bay Community College** (October 2012). Speaking mathematically: Exploring how students align mathematical language with narrative description. Seminar for NSF STEP UP presentation series, Wellesley, MA.</li>
+<li>**University of New Hampshire** (November 2011). Connecting mathematics to meaning: Examples from mathematicians and high school students. Seminar for STEM Education Colloquium series, Durham, NH.</li>
+<li>**Michigan State University** (March 2011) The emergence of mathematical meaning: Coordinating individual and collective levels of description through computational modeling. College of Education, East Lansing, MI.</li>
+<li>**University of Akron** (February 2011). The emergence of mathematical meaning: Coordinating individual and collective levels of description through computational modeling. College of Education, Akron, OH.</li>
+</ul>
+
+### Press and Public Outreach
+
+<ul>
+<li>**2022 NSF STEM for All Video Showcase.** Wagh, A., Blikstein, P., Bumbacher, E., Eloy, A., Fuhrmann, T., Rosenbaum, L., Wilkerson, M. H., & Wolf, J. From Access to Sustainability: Investigating Ways to Foster Sustained Engagement in Computational Modeling in Middle School Classrooms. [Video]. Retrieved from https://videohall.com/p/2357</li>
+<li>**2016 NSF Advancing STEM Learning for All Video Showcase.** Wilkerson, M. H. & Laina, V.* (2016). DataSketch: Exploring computational data visualization in the middle grades. [Video]. Retrieved from http://stemforall2016.videohall.com/presentations/683 </li>
+<li>**2015 NSF Teaching and Learning Video Showcase.** Wilkerson-Jerde, M. H., Andrews, C.*, Gravel, B. E., & Shaban, Y.* (2015). The SiMSAM project. [Video]. Retrieved from http://resourcecenters2015.videohall.com/presentations/566 </li>
+<li>**WGBH Forum on Digital Media for STEM Learning.** Wilkerson-Jerde, M. H. (2014). Connecting young people’s expressive activities with the tools of math and science. WGBH Studios, Boston, MA. Video accessible from https://www.youtube.com/watch?v=5AK0hSbuHqI </li>
+<li>**New York Times Numberplay.** My computational solution to Gary Antonik’s August 2012 “Wolves and Sheep” puzzle was featured. Accessible at https://wordplay.blogs.nytimes.com/2012/09/10/numberplay-catbird-seat/</li>
+</ul>
+
+## Refereed Conference Presentations
+
+### Paper Presentations
+
+<ol reversed>
+<li>Wilkerson, M. H, Kim, J.\*, & Stokes, D. J.\* (2024). Heuristics for Sociocritical Engagement with Data Artifacts: Why, When, and How Might Teachers Use Them? Full paper to be presented at the 2024 Annual Meeting of the American Educational Research Association (AERA’24), Philadelphia, PA, USA.</li> 
+<li>Foley, E.\* & Wilkerson, M. H. (2024). Classroom Accessibility as a Sociotechnical System: The Case of Data Visualization Literacy. Roundtable paper to be presented at AERA’24, Philadelphia, PA, USA.</li>
+<li>Fitzmaurice, H. L. ‡ & Wilkerson, M. H. (2024). Community Organizing for Climate Change and Environmental Justice Instruction at the School District Level. 2024 Annual Meeting of the National Association for Research on Science Teaching (NARST’24). Denver, CO. March 18.</li>
+<li>Wei, X.\*, Bhargava, P.\*, McBride, C.‡, Reigh, E.‡, Erickson, T., Finzer, W., & Wilkerson, M. H. (2023). Engaging the tensions between data and experience: Writing data stories with story builder. In D. Weintrop (Org, Chair) & DiSalvo, B. (Disc.), Design principles for creating accessible and inclusive introductory computing experiences. AERA’23, Chicago, IL, USA.</li>
+<li>Fuhrmann, T., Rosenbaum, L., Eloy, A.\*, Wagh, A., Wolf, J., Blikstein, P., & Wilkerson, M. H. (2023). Right but Wrong: The Independence of Mechanistic Reasoning and Canonical Understanding in Studying Diffusion. 2023 Annual Meeting of the National Association for Research on Science Teaching (NARST’23). Chicago, IL.</li>
+<li>Wagh, A., Eloy, A.\*, Fuhrmann, T., Rosenbaum, L., Blikstein, P., Wilkerson, M. H. (2023). What dimensions of a phenomenon do students notice through computational modeling & data analysis?: An investigation using MoDa. 2023 Annual Meeting of the National Association for Research on Science Teaching. Chicago, IL.</li>
+<li>Pimentel, D.\*, Horton, N., & Wilkerson, M. H. (2023). Tools for learning and doing data science as the K-12 level. Paper in M. H. Wilkerson (Org.) & A. Stephens (Chair), Foundations of K-12 Data Science Education. Symposium to occur at the 2023 Annual Meeting of the American Educational Research Association, Chicago, IL, USA.</li>
+<li>Foley, E.\* & Wilkerson, M. H. (2022). Accessible DataLIT: Discovering the role teachers of the visually impaired play in data literacy development. Paper presented at the 2022 Annual Meeting of the American Educational Research Association, San Diego, CA, USA. SIG Learning Sciences/Advanced Technologies for Learning Best Student Paper Award.</li>
+<li>Wagh, A., Fuhrmann, T., Eloy, A., Bumbacher, E., Wilkerson, M. H., & Blikstein, P. (2022). Lessons from co-designing with science teachers to support sustained computational modeling in middle school classrooms. Roundtable paper presented at the 2022 Annual Meeting of the American Educational Research Association, San Diego, CA, USA.</li>
+<li>Wilkerson, M. H. (2022). Writing our data stories: Repurposing scientific datasets to integrate students’ perspectives. Short presentation at the Twelfth International Research Forum on Statistical Reasoning, Thinking, and Literacy (SRTL-12). Conference held online.</li>
+<li>Chen, E.*, Wilkerson, M. H., & Asta, M. (2021). Integrating Interactive Computing Experiences into Materials Science and Engineering Curricula Using Open-source Jupyter Authoring Tools. In Symposium BIO1: Developing an open-source introductory textbook for the materials community. To be presented at the 2021 Materials Research Society Fall Meeting & Exhibit. Boston, MA, USA, Nov 29-Dec 2.</li>
+<li>Wilkerson, M. H., Laina, V\*. (2020/conference cancelled due to COVID-19). Students’ strategies for reasoning about complex systems using aggregate data sources. Paper in S. Levy (Org.) & M. Jacobson (Disc.), Restructuring concepts and tools through a complexity perspective. Symposium accepted at the 2020 Annual Meeting of the American Educational Research Association (AERA).</li>
+<li>Lopez, L.\*, Gutiérrez, K., & Wilkerson, M. H. (2020/conference cancelled due to COVID-19). Epistemic actors: Double binds and the negotiation of epistemic participation. Accepted as a roundtable paper at the 2020 Annual Meeting of the American Educational Research Association (AERA).</li>
+<li>Wilkerson, M. H., Shareff, R. L.\*, & Lanouette, K.\* (2019). Learning to transform data: A longitudinal interview study. Long presentation at the Eleventh International Research Forum on Statistical Reasoning, Thinking, and Literacy (SRTL-11).</li>
+<li>Lopez, L.*, Wilkerson, M. H., & Laina, V.\* (2019). Data as proxy: Sociomaterial supports and constraints on the use of data for epistemic agency. Paper presented at the 2019 Annual Meeting of the National Association for Research in Science Teaching (NARST).</li>
+<li>Laina, V.\*, & Wilkerson, M. H. (2019). Seeing things differently: A form and function analysis of student-generated dynamic data visualizations. Paper presented at the 2019 Annual Meeting of the American Educational Research Association (AERA).</li>
+<li>Wilkerson, M. H. & Lanouette, K.\* (2019). Making data useful: A longitudinal examination of young adults’ developing data transformation processes. Poster presented at the 2019 Annual Meeting of the American Educational Research Association (AERA).</li>
+<li>Lopez, M. L.\*, Laina, V.\*, & Wilkerson, M. H. (2019). Agentive use of public quantitative data in scientific argumentation: A case study. Roundtable paper presented at the 2019 Annual Meeting of the American Educational Research Association (AERA).</li>
+<li>Shareff, R. L\*. & Wilkerson, M. H. (2018). Grounding computational modeling experience in fertile soil: A design project with middle school science teachers and students. In A. Wagh (Org.) & J. Kolodner (Discussant), Bridging computational modeling tools & practices into the existing structures of k-16 environments in science education. Symposium to be presented at the 2018 Annual Meeting of the American Educational Research Association. New York, NY, USA, April 13-17.</li>
+<li>Wilkerson, M. H. & Lanouette, K.\* (2017). Connecting research and creating frameworks: A report from the youth, learning, and data science summit. Short presentation at SRTL-10: The Tenth International Research Forum on Statistical Reasoning, Thinking, and Literacy. Rotorua, New Zealand, July 2-8.</li>
+<li>Laina, V.\* & Wilkerson, M. H. (2017). Modeling data by visualizing it. Long presentation at SRTL-10: The Tenth International Research Forum on Statistical Reasoning, Thinking, and Literacy. Rotorua, New Zealand, July 2-8.</li>
+<li>Wilkerson, M. H. & Laina, V.\* (2017). Designing to support data visualizations as an exploratory tool in science. Paper to be presented as part of M. Gresalfi (Org.) and D. Clark (Chair), Designing digital environments to support mathematical and scientific reasoning: Theoretical and disciplinary perspectives. AERA 2017, San Antonio, TX.</li>
+<li>Finzer, W., Erickson, T., & Wilkerson, M. (2016). Data Science Games—Rapid Iteration through Game, Data, Model. Annual meeting of the Center for Innovative Research in Cyberlearning, 2016.</li>
+<li>Wilkerson, M. H. & Gravel, B. E. (2016). Tools, problem spaces, and epistemic games. In K. Chase & D. Abrahamson (Orgs.), Discovery-based learning 2.0: Are we there yet? Symposium presented at the 2016 Annual Meeting of the American Educational Research Association, Washington, DC.</li>
+<li>Wilkerson-Jerde, M. H., Gravel, B. E., Andrews, C.*, & Shaban, Y.\* (2015). Teacher attention and pedagogical goals in a computational modeling-focused professional development workshop. Presented at the 2015 Annual Meeting of the American Educational Research Association. Chicago, IL, April 16-20.</li>
+<li>Wilkerson-Jerde, M. H. (2015). Stories of our city: Coordinating youths’ mathematical, representational, and community knowledge through data visualization design. Presented at the 2015 Annual Meeting of the American Educational Research Association. Chicago, IL, Apr 16-20.</li>
+<li>Wilkerson-Jerde, M. H., & Gravel, B. E. (2015). Mapping the influence of participant groups and contexts in participatory design-based research. To be presented as part of S. Grover (Org.), Design-based research for the learning sciences: A coming of age?. Symposium at the 2015 Annual Meeting of the American Educational Research Association. Chicago, IL, April 16-20.</li>
+<li>Wilkerson-Jerde, M. H. & Head, E.^ (2015). Designing data visualizations to promote mathematics learning and identity development. Brief Research Report to be presented at the 2015 National Council of Teachers of Mathematics Research Presession, Boston, MA, April 15.</li>
+<li>Wilkerson-Jerde, M. (2014). “Calculus lied to us!”: Functional reasoning about complex systems. In C. Hagen (Org.) & M. Carlson (Discussant), Developing understandings of mathematical functions: perspectives on learning across the grades. Symposium at the 44th Annual Conference of the Jean Piaget Society, San Francisco, CA. May 24-27.</li>
+<li>Wilkerson-Jerde, M., Gravel, B. & Macrander, C.\* (2014). Exploring shifts in middle school learners’ modeling activity while drawing, animating, and simulating molecular diffusion. Presented at the 2014 Annual Meeting of the American Educational Research Association. Philadelphia, PA, April 3-7.</li>
+<li>Wilkerson-Jerde, M., Gravel, B., Macrander, C.\*, Bell, A.\*, & Krouwer, M.\* (2013). Grain of sand strand: Developing SiMSAM, an integrated animation, simulation, and data analysis toolkit. Presented in Rick, J., Horn, M., & Martinez-Moldonado, R. (Orgs.) CSCL 2013 Pre-Conference Workshop Human-Computer Interaction and the Learning Sciences. Madison, WI. July 14.</li>
+<li>Macrander, C.\*, Wilkerson-Jerde, M. & Gravel, B. (2013). Nested framings and the pursuit of authentic scientific inquiry. Paper presented at the 43rd Annual Meeting of the Jean Piaget Society, Chicago, IL. June 7-9.</li>
+<li>Wilkerson-Jerde, M. & Wilensky, U. (2011). Designing for multiple access points to powerful mathematics. In Veeragoudar Harrell, S. & Wilkerson-Jerde, M. (Chairs), Wilkerson-Jerde, M. & Veeragoudar Harrell, S. (Orgs.) & C. Lee (Disc.), Rethinking STEM Content, Access, and Agency for Broad Participation: A Designer/Practitioner Dialogue. Symposium and paper presented at the 2011 Annual Meeting of the American Educational Research Association, New Orleans, LA.</li>
+<li>Wilkerson-Jerde, M. & Wilensky, U. (2011). New tools for modeling quantitative variation in complex systems: A design and preliminary classroom study. Paper presented at the 2011 Annual Meeting of the American Educational Research Association, New Orleans, LA. April 8-12.</li>
+<li>Wilkerson-Jerde, M. & Wilensky, U. (2010). Qualitative calculus of systems: Exploring students’ understanding of rate of change and accumulation in multiagent systems. Presented at the 2010 Annual Meeting of the American Educational Research Association, Denver, CO, April 30 - May 4. SIG Learning Sciences/Advanced Technologies for Learning Best Student Paper Award.</li>
+<li>Wilkerson-Jerde, M. & Wilensky, U. (2010). Reflected abstraction and knowledge reconstruction in expertise: Tracking mathematicians’ sensemaking around unfamiliar mathematical ideas. Presented at the 40th Annual Meeting of the Jean Piaget Society, St Louis, MO, June 3-5.</li>
+<li>Wilkerson-Jerde, M. & Wilensky, U. (2010). Deltatick: Using agent-based modeling to learn the calculus of complex systems. In U. Wilensky (Chair). Small Steps for Agents… Giant Steps for Students?: Learning with Agent-Based Modeling. Presented at Constructionism 2010. Paris, France, Aug 16-20.</li>
+<li>Wilkerson-Jerde, M. & Wilensky, U. (2009). Complementarity in equational and agent-based models: A pedagogical perspective. In M. Jacobson (Org.), Complexity, Learning, and Research: Under the Microscope, New Kinds of Microscopes, and Seeing Differently. Presented at the 2009 Annual Meeting of the American Educational Research Association, San Diego, CA, April 13-17.</li>
+<li>Wilkerson, M. & Wilensky, U. (2008). Embedding environments as a mechanism for mathematical reasoning: An expert study. Presented at the 2008 Annual Meeting of the American Educational Research Association, New York, NY, March 24-28.</li>
+<li>Sengupta, P., Wilkerson, M. & Wilensky, U. (2007). On the relationship between spatial knowledge and learning electricity: Comparative case studies of students using 2D and 3D emergent, computational learning environments. Presented at the 2007 Annual Meeting of the American Educational Research Association, Chicago, IL, April 9-13.</li>
+</ol>
+
+### Posters and Other Participations
+
+<ol reversed>
+<li>Wilkerson, M. H., Shah, Z.\*, & Barton, J. C.\* (2024) The purpose and promise of Critical Data Activities through the Eyes of Teacher Educators. In the symposium Exploring Critical Data Literacy in K-12 Social Studies, AERA’24, Philadelphia, PA, USA.</li>
+<li>Wilkerson, M. H. & Roberto, C.\* (2024). Dreams and Contestations: Minoritized Youths’ Redefinitions of Computing. In the symposium The Role of Emergent Technologies in Equitable Futures: Navigating Between Entrenched Injustices and Expansive Possibilities, AERA’24, Philadephia, PA, USA.</li>
+<li>Wilkerson, M. H. (Org.) & Stephens, A. (Chair). (2023). Foundations of K-12 Data Science Education. Symposium at the 2023 Annual Meeting of the American Educational Research Association, Chicago, IL, USA.</li>
+<li>Wei, X.\*, Bhargava, P.\*, McBride, C.‡, Reigh, E.‡, Erickson, T., Finzer, W., & Wilkerson, M. H. (2023). Engaging the tensions between data and experience: Writing Data Stories with Story Builder. In Weintrop, D. (Org.), Design principles for creating accessible and inclusive introductory computing experiences. Symposium to be presented at AERA 2023, Chicago, IL, USA.</li>
+<li>Leib, E.\*, Massab, H., Hurney, R., Wilkerson, M., & Bunge, S. (2022). Evaluating a relational reasoning intervention for graph comprehension in middle school. Poster presented at the Biennial Conference of the Cognitive Development Society, April 21-23, Madison, WI, USA.</li>
+<li>Escudé, M. E.\*, Reigh, E. V.\*, Bakal, M.\*, Rivero, E.\*, Wilkerson, M. H., & Gutiérrez, K. (2022). Developing Spatial-Making Repertoires Through Sociocritical Data Stories. In Lee, S. (Chair), Designing for Dignity Affirming Experiences: Leveraging Embodied Learning Towards Equity in Interaction. Symposium at AERA 2022, San Diego, CA, USA.</li>
+<li>Wilkerson, M. H., Stokes, D.*, Lee, H. S., Reigh, E. V.*, Escudé, M. E.*, Rivero, E.*, & Gutiérrez, K. (2022). A framework for exploring self, community, histories, and futures through data. In Miller, K., Yoon, S. (Chairs) & Rubin, A. (Discussant), Data Literacy in Context: Culturally Oriented and Place-Based Learning through Data. Symposium at AERA 2022, San Diego, CA, USA.</li>
+<li>Koyuncu, B.\* & Wilkerson, M. H. (2022). Examining the influence of tool selection on curriculum design for Data science education. Poster at AERA 2022, San Diego, CA, USA.
+<li>Rivero, E.\*, Wei, X.\*, Wilkerson, M. H., Gutiérrez, K., Bhargava, P.\*, & Zheng, H.\* (2022). Syncretic data reasoning: Youth leveraging everyday knowledges to expand their reasoning around data. Poster at AERA 2022, San Diego, CA, USA.</li>
+<li>Wagh, A., Kochevar, R., Louie, J., & Wilkerson, M. H. (2021). Exploring tools and strategies for advancing data literacy in K12 curricula. Panel presentation at the 2021 National Science Foundation DRK12 PI Meeting, June 17, Washington, DC, USA.</li>
+<li>Jamarillo, J. \*, Wilkerson, M. H., & Lopez, M. L. (2020/conference cancelled due to COVID-19). Overcoming the teacher-student script—student persistence in light of constraints on epistemic data agency. Interactive poster at the 2020 Annual Meeting of the National Association for Research on Science Teaching, Portland, OR, USA.</li>
+<li>Wilkerson, M. H., Lopez, L.\*, & Jamarillo, J.\* (2020/conference cancelled due to COVID-19). Making “data claims” as an (inter)disciplinary practice in the science classroom. Poster in J. M. Rosenberg & B. Chen (Orgs.), V. Lee (Disc.), Exploring data science across the curriculum and across grade levels. Symposium at AERA 2020.</li>
+<li>Wilkerson, M. H. (2019). First steps in research: Watching high-school students making data moves—and then what? In T. Erickson (Org.), Data science education at the school level. Invited panel presentation at the Joint Statistical Meeting (JSM 2019), Denver, CO, USA. July 27-August 1.</li>
+<li>Wilkerson, M. H., Deitrick, E.\*, & Simoneau, E.^ (2017). Integrating computational thinking in high school statistics through data modeling with R. In B. Litts & M. Wilkerson (Orgs.), Stories from the field: Integrating computational thinking across curricular domains. AERA 2017, San Antonio, TX, USA. April 27-May 1.
+<li>Wilkerson, M. H. (2017). Using a dra</li>wing, animation, and simulation sequence to scaffold student production of scientific models. In A. Karan & D. Clark (Orgs.), Supporting science as a modeling practice in the classroom through the lens of NGSS. Poster presented at AERA 2017, San Antonio, TX, USA. April 27-May 1.</li>
+<li>Wilkerson, M. & Laina, V.\* (2016). How do youth reason about dynamic data visualizations? A preliminary study. Poster presented at the Society for Research in Child Development Special Topic Meeting: Technology and Media in Children’s Development, Irvine, CA, USA. October 27-30.</li>
+<li>Laina, V.\* & Wilkerson, M. (2016). DataSketch: A tool for youth to create dynamic data visualizations with ink sketches. Demonstration presented at the Society for Research in Child Development Special Topic Meeting: Technology and Media in Children’s Development, Irvine, CA, USA. October 27-30.</li>
+<li>Shaban, Y.\* & Wilkerson-Jerde, M. (2016). Looking beyond cues in understanding the co-construction of epistemological framing during interviews: A case study. Poster presented at the 2016 Annual Meeting of the American Educational Research Association, Washington, DC, USA. April 8-12.</li>
+<li>Walkoe, J., Wilkerson-Jerde, M., & Elby, A. (2016). Technology-mediated teacher noticing: A goal for classroom practice, tool design, and professional development. Poster presented at the 2016 Annual Meeting of the American Educational Research Association, Washington, DC, USA. April 8-12.</li>
+<li>Wilkerson-Jerde, M. & Maldonis, J.\* (2013). Patterns in students’ processes for representing quantitative change across multiple scenarios with multiple media. Poster presented at the 2013 Annual Meeting of the American Educational Research Association, San Francisco, CA, USA. May 24-27.</li>
+<li>Wilkerson-Jerde, M., Bautista, A., Brizuela, B. & Tobin, R. (2013). “Because that word model is loaded”: What count as models and modeling for middle school mathematics teachers. Poster presented at the 2013 National Council of Teachers of Mathematics (NCTM) Research Presession. Denver, CO, USA. April 15-17.</li>
+<li>Wilkerson-Jerde, M. (2012). The Category Creator: An Interactive Online Gallery for Bridging Student-Generated Artifacts and Whole-Classroom Reflection. Poster presented at the 2012 Annual Meeting of the American Educational Research Association, Vancouver, BC. April 13-17.</li>
+<li>Wilkerson-Jerde, M., Jacobs, A., & Wilensky, U. (2009). Getting the whole picture: Tracking expert learning over time with networks. Presented at the Annual Northwestern Institute on Complex Systems Complexity Conference, Evanston, IL, USA. September 2. Best Student Poster Award.</li>
+<li>Jacobs, A.\*, Wilkerson-Jerde, M., Sengupta, P., & Wilensky, U. (2009). When does 3D visualization work?: In search of design principles for three-dimensional visuospatial agent-based models. Student poster presented at the Annual Meeting of the American Association for the Advancement of Science Southwestern and Rocky Mountain Division (AAAS-SWARM), March 29.</li>
+<li>Wilkerson, M. (2004). Knot theory fashion: Brunnian style, infinite possibilities. Presented at Student Poster Session, Southern California & Nevada Section of the Mathematical Association of America, San Diego, CA, USA. March 6. Best Student Poster Award.</li>
+</ol>
+
+## Software and Curricular Products
+
+:::{.list-indent} 
+**Show Your Work (SyW)** [2025-Present]{.flushright}  
+A gentle introduction to Jupyter notebooks for K-12 teachers  
+**DSE-citan** [2024-Present]{.flushright}  
+Quarto notebook for bibliometric analysis of the “Data Science Education” literature	
+**MoDa** (Modeling and Data: with Tamar Fuhrmann, Aditi Wagh, Paulo Blikstein) [2019-Present]{.flushright}  
+Drag and drop toolkit that integrates agent-based modeling with data analysis.	
+**DataBytes** (with Hollylynne Lee, David Stokes, Eddie Rivero, and Lisette Lopez) [2022]{.flushright}  
+Data visualization discussion protocol released under CC-BY-NC-4.0	
+**DataSketch** (with Radiant Llama; Agile Global Solutions)	[2014-2018]{.flushright}  
+Data visualization toolkit; digital ink objects programmed to respond to live or archival datasets.
+**SiMSAM** (with Brian Gravel; Geisel Software) [2012-2017]{.flushright}  
+Integrated stop-action moviemaking, simulation, and measurement toolkit for scientific modeling.
+**DeltaTick** (With Aditi Wagh and Uri Wilensky) [2010-2012]{.flushright}  
+Domain-specific block-based programming interface for the NetLogo modeling environment.
+**Categorizer** [2009-2011]{.flushright}  
+Interactive online gallery to allow learners to share, classify & compare computational artifacts.
+**NetLogo Models Library Contributions** [2006-2011]{.flushright}	
+Vee Flocking (with Forrest Stonedahl), 3D GasLab Suite, Chaos Suite, Surface Walking.  
+**Ubiquitous Presenter** (with Beth Simon and William Griswold). [2004-2005]{.flushright}
+Tablet-based slide annotation and student response tool for large lecture-based classrooms. 
+:::
+
+## Teaching
+
+### Courses
+
+:::{.list-indent} 
+EDUC 130: Knowing and Learning in Mathematics and Science [FA24]{.flushright}  
+EDUC 375: The Art of Teaching [SP24]{.flushright}  
+EDUC 295B: Technology, Curriculum, and Instruction [SP17, every Spring '19-'24]{.flushright}  
+EDUC 209 (formerly 223B): Academic Writing Group [FA17, SP18, every semester SP19-FA23, FA24]{.flushright}  
+UGIS/EDUC c122: Rsch Meth for K12 Math and Sci Tch (CalTeach) [SP20, every Fall '20-'23]{.flushright}  
+EDUC 150/170: K-12 Computing and Data Science Education [FA20, SP21]{.flushright}  
+EDUC 223B: STEM Education Support Seminar [FA19,SP20]{.flushright}  
+EDUC 223B: CoRE Research Group [SP16, FA16, SP17,FA17, SP18, SP19, FA24]{.flushright}  
+EDUC 293V: Video Analysis Methods [SP18]{.flushright}  
+EDUC 290C/235A: Scientific Thinking and Learning [FA16, FA17]{.flushright}
+SESAME 210: Practicum in Science and Math Education (Co-taught with Lloyd Goldwasser) [FA16]{.flushright}  
+EDUC 290C: Epistemic Forms, Games, and Fluency [SP16]{.flushright}  
+:::
+
+#### At Tufts
+
+:::{.list-indent} 
+ED130: Introduction to Human Development and Learning [FA15]{.flushright}  
+ED112: Mathematics Learning Environments [every Fall '12-'15]{.flushright}    
+ED112: Mathematics Learning Environments, (with Judah Schwartz) [FA11]{.flushright}   
+ED222/223: STEM Ed Graduate Program Seminar [2012-2013, 2013-2014]{.flushright}   
+ED222/223: STEM Ed Graduate Program Seminar, (with Bárbara Brizuela) [2011-2012]{.flushright}   
+ED291: Intro. to Educational Design and Design-Based Research [SP12, FA14]{.flushright}   
+ED121/122/125: The Practice of Teaching (STEM), (with Brian Gravel) [SP13]{.flushright}   
+ED121/122/125: The Practice of Teaching (STEM), (with Mary Caddle and Brian Gravel) [SP12]{.flushright}  
+:::
+
+### Workshops and Tutorials
+
+<ul>
+<li>**CUNY Computing Integrated Teacher Education Program: Writing Data Stories** [2023]{.flushright}  
+Forty-hour professional learning workshop for 20 teacher educators across the CUNY system to integrate data investigations into syllabi for preservice teacher certification programs. In partnership with CITE.</li>	
+<li>**DataBytes and Data Stories in Your Classroom**	[2022]{.flushright}  
+Eight-hour professional learning workshop for 50+ K12 teachers.   </li>
+<li>**DataBytes Professional Learning Summer Workshop**	[2022]{.flushright}  
+2-day in-person professional learning workshop for 50+ K-12 teachers on data visualization discussion protocols and classroom implementation strategies.  </li>
+<li>**Data Stories** [2022]{.flushright}  
+Two hour professional learning workshop for CUNY Computing Integrated Teacher Education program.	</li>
+<li>**Telling Stories with Data: Strategies and Tools for Building Data Fluency**	[2022]{.flushright}  
+One hour online webinar to introduce and model DataBytes curriculum. 50+ participants.   </li>
+<li>**Writing Data Stories Professional Learning Summer Workshop**	[2020]{.flushright}  
+2-day online seminar + asynchronous modules for in-service middle school teachers. 15 participants.  </li>
+<li>**Data Science Education Webinar Series**	[2017]{.flushright}  
+Data Moves and Data Stories. Webinar series sponsored by Concord Consortium.  </li>
+<li>**DataSketch Teacher Professional Development Workshop**	[2017]{.flushright}  
+Three day workshop on data analysis in science for in-service teachers. Attended by 21 participants.  </li>
+<li>**Participatory Design and Technology in Schools**	[2016]{.flushright}  
+One and a half hour workshop on participatory design methods for school leaders visiting Berkeley as part of the BI Norway exchange.  </li>
+<li>**Data Science Games Teacher Professional Development Workshop**	[2016]{.flushright}  
+With William Finzer, Tim Erickson. San Francisco Unified School District workshop on NGSS alignment, data analysis, and visualization technologies.  </li>
+<li>**What is Data Science?**	[2016]{.flushright}  
+With William Finzer, Tim Erickson. Cyberlearning 2016 Expertise Exchange. Washington, DC.  </li>
+<li>**Social Justice & Youth in STEM**	[2015]{.flushright}  
+With Tamara Clegg. Cyberlearning 2015 Envisioning Group. Washington, DC.  </li>
+<li>**SiMSAM Teacher Professional Development Workshop**	[2013, 2014]{.flushright}  
+With Brian Gravel. Tufts University STEM Elementary Education Module.  </li>
+<li>**Finding Evidence of Student Thinking**	[2013]{.flushright}  
+Leader with Poincaré Institute members. Poincaré (Mathematics Professional Development Program) Cohort 2 Course 2 Kickoff Workshop.  </li>
+<li>**What Are My Students Thinking?** And, **Modeling Data with Functions**	[2012]{.flushright}  
+With Poincaré Institute members. Poincaré Cohort 1 Course 3 Kickoff Workshops.  </li>
+<li>**NetLogo Demo and Professional Development Session**	[2010]{.flushright}  
+Virtual School Symposium, Intern'tl Assoc. for K-12 Online Learning (iNACOL), Glendale, AZ.  </li>
+<li>**Agent-Based Modeling with NetLogo: Exploring, Designing, and Building**	[2010]{.flushright}  
+With members of the Center for Connected Learning. Constructionism 2010. Paris, France.  </li>
+<li>**NetLogo Workshops at Northwestern University**	[2010]{.flushright}  
+Led 3 workshops for curriculum designers, teachers, complexity science researchers.</li>
+</ul>
+:::
+
+## Service
+
+### Scholarly Societies and Events
+
+:::{.list-indent} 
+**Financial Officer**, International Society for the Learning Sciences	[2024-Present]{.flushright}  
+**Co-Chair** (with Daniel Frischemeier)	[2024]{.flushright}  
+Topic Study Group in Data Science Education at the 
+15th International Conference for Mathematics Education  
+**Co-Chair** (with Nicholas Horton) [2022]{.flushright}   
+Organizing Committee for National Academies workshop Foundations of Data Science in Grades K-12   
+**Lead Organizer** (with Victor Lee, Joseph Polman, Tapan Parikh) [2015-2016]{.flushright}  
+NSF Workshop: Youth, Learning, and Data Science Summit. August 11-12, University of California—Berkeley.   
+**Program Chair**, AERA Special Interest Group for Adv. Tech. for Learning [2013-2014]{.flushright}  
+**Chair**, AERA Special Interest Group for Advanced Technologies for Learning [2012-2013]{.flushright}
+:::
+
+### Editorial Boards
+
+:::{.list-indent} 
+**Associate Editor**, Statistics Education Research Journal [2025-Present]{.flushright}  
+**Associate Editor**, Journal of Statistics and Data Science Education [2021-Present]{.flushright}  
+**Editorial Board Member**, Cognition and Instruction [2020-Present]{.flushright}  
+**Editorial Board Member**, Journal of the Learning Sciences [2017-Present]{.flushright}  
+**Associate Editor** (Math Snapshots Column) Digital Experiences in Mathematics Education [2015-2023]{.flushright}
+:::
+
+### Review Commmittees and Panels
+
+:::{.list-indent} 
+**Metareviewer**, International Conference of the Learning Sciences (ICLS) [2021-Present]{.flushright}  
+**Award Committee**, AERA Jan Hawkins Award for Humanistic Research in Educational Technologies	[2023, 2024]{.flushright}   
+**Award Committee**, Best Student Paper SIG Learning Sciences and Advanced Technologies for Learning [2014-2024]{.flushright}  
+**Program Committee**, International Conference of the Learning Sciences (ICLS)	[2018, 2020]{.flushright}  
+**Program Committee**, Cyberlearning Synthesis & Envisioning Meeting [2015]{.flushright}  
+**Volunteer Coordinator**, Interaction, Design and Children Conference [2015]{.flushright}  
+**Faculty Mentor**, AERA Div. C Graduate Student Seminar [2014]{.flushright}  
+**Program Committee**, Fablearn [2013, 2014]{.flushright}  
+**Program Committee**, Constructionism [2012, 2014]{.flushright}  
+**Program Committee**, Interaction, Design & Children 	[2010, 2012]{.flushright}
+:::
