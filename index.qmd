@@ -10,6 +10,8 @@ about:
       href: https://orcid.org/0000-0001-8250-068X
     - text: "{{< ai osf >}}"
       href: https://osf.io/v5xn2/
+    - text: "{{< ai github >}}"
+      href: https://github.com/michellehoda
 ---
 
 I'm an Associate Professor at the UC Berkeley School of Education, where I direct the [Computing, Reasoning, and Expression (CoRE) Lab](https://corelab.berkeley.edu) at UC Berkeley. Our recent projects include: 
@@ -18,10 +20,12 @@ I'm an Associate Professor at the UC Berkeley School of Education, where I direc
 
 - [MoDa](https://moda.education), developing tools for integrating computational modeling and data analysis in middle school science. 
 
-- [Writing Data Stories (WDS)](https://corelab.berkeley.edu/2022/11/18/writing-data-stories/), integrating data storytelling into science investigations.
+- [Rivulet](https://github.com/CalCoRE/rivulet-utils), a set of Python Jupyter notebooks and CODAP plugins designed to help educators find the most pedagogically generative "slices" data from live national databases for use with students.
+
+- [Writing Data Stories (WDS)](https://corelab.berkeley.edu/2022/11/18/writing-data-stories/), tools and activities for integrating data storytelling into science investigations.
 
 - The [Data Science Education (DSEd) Fellowship](https://ls.berkeley.edu/news/social-sciences-d-lab-supports-fellowship-expand-accessibility-data-science-education), bringing three postdoctoral scholars to Berkeley to study the landscape of Data Science Education across units and levels.
 
-I teach classes in learning theory, educational technology, STEM education, and educational research methods. In addition to making empirical and theoretical contributions, our group develops and publishes tools and resources to support engaging, relevant, data-rich teaching across the STEM curriculum.
+I teach classes in learning theory, computing and data science education, STEM teaching methods, and educational research. In addition to making empirical and theoretical contributions, our group develops and publishes tools and resources to support engaging, relevant, data-rich teaching across the STEM curriculum.
 
 Our work has been published in venues including *Educational Researcher*, *Journal of the Learning Sciences*, and the *Harvard Data Science Review* (see [here](cv.html) for more). I like numbers, formulae, and practical contributions and so I also currently serve as Finance Officer for the [International Society of the Learning Sciences](https://isls.org).

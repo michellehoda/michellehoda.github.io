@@ -41,6 +41,8 @@ Mathematics (BA); Diversified Liberal Arts (BA) [2005]{.flushright}
 ### Refereed Journal Articles
 
 <ol reversed>
+<li>@wilkerson-2026-zdm</li>
+<li>@fuhrmann-2026-2</li>
 <li>@wilkerson_how_2025-1</li>
 <li>@wilkerson_mapping_2025</li>
 <li>@wilkerson_how_2025</li>
@@ -70,6 +72,7 @@ Mathematics (BA); Diversified Liberal Arts (BA) [2005]{.flushright}
 
 <ol reversed>
 <li>@barton_layered_nodate</li>
+<li>@fuhrmann-2026</li>
 <li>@reigh_critical_nodate</li>
 <li>@biehler_new_2025</li>
 <li>@wilkerson_learning_2022</li>
@@ -84,8 +87,8 @@ Mathematics (BA); Diversified Liberal Arts (BA) [2005]{.flushright}
 ### Invited Contributions and Book Reviews
 
 <ol reversed>
-<li>@henrique_who_2023</li>
 <li>@wilkerson_foreword_nodate</li>
+<li>@henrique_who_2023</li>
 <li>@wilkerson_open_2015</li>
 </ol>
 
@@ -175,12 +178,12 @@ Constructing for Learning: An Open House for Technologies in Education
 ### Full Papers [Stringently Refereed]
 
 <ol reversed>
-<li>@fitzmaurice_activism_2024 -- *Best Paper Award*</li>
-<li>@eloy_decomposing_2024 -- *Best Student Paper Award*</li>
+<li>@fitzmaurice_activism_2024 -- **Best Paper Award**</li>
+<li>@eloy_decomposing_2024 -- **Best Student Paper Award**</li>
 <li>@fuhrmann_how_2023</li>
 <li>@vogelstein_storytelling_2023</li>
 <li>@wagh_moda_2022</li>
-<li>@lopez_curricular_2021 -- *Best Design Paper Nominee*</li>
+<li>@lopez_curricular_2021 -- **Best Design Paper Nominee**</li>
 <li>@erickson_data_2018</li>
 <li>@wilkerson_exploring_2017</li>
 <li>@deitrick_understanding_2017</li>
@@ -195,9 +198,10 @@ Constructing for Learning: An Open House for Technologies in Education
 <li>@wilkerson_ubiquitous_2005</li>
 </ol>
 
-### Short Papers, Posters, and Workshop Leadership
+### Short Papers, Posters, Demos, and Workshop Leadership [Refereed]
 
 <ol reversed>
+<li>@wilkerson-2026-rivulet</li>
 <li>@kemble_storytelling_2024</li>
 <li>@lee_data_2024</li>
 <li>@wagh_ontological_2023-1</li>
@@ -267,11 +271,37 @@ Constructing for Learning: An Open House for Technologies in Education
 <li>**New York Times Numberplay.** My computational solution to Gary Antonik’s August 2012 “Wolves and Sheep” puzzle was featured. Accessible at https://wordplay.blogs.nytimes.com/2012/09/10/numberplay-catbird-seat/</li>
 </ul>
 
+## Software and Curricular Products
+
+:::{.list-indent} 
+<li>**Show Your Work (SyW)** [2025-Present]{.flushright}  
+A gentle introduction to Jupyter notebooks for K-12 teachers</li>
+<li>**DSE-citan** [2024-Present]{.flushright}  
+Quarto notebook for bibliometric analysis of the “Data Science Education” literature</li>
+<li>**MoDa** (Modeling and Data: with Tamar Fuhrmann, Aditi Wagh, Paulo Blikstein) [2019-Present]{.flushright}  
+Drag and drop toolkit that integrates agent-based modeling with data analysis.</li>
+<li>**DataBytes** (with Hollylynne Lee, David Stokes, Eddie Rivero, and Lisette Lopez) [2022]{.flushright}  
+Data visualization discussion protocol released under CC-BY-NC-4.0</li>
+<li>**DataSketch** (with Radiant Llama; Agile Global Solutions)	[2014-2018]{.flushright}  
+Data visualization toolkit; digital ink objects programmed to respond to live or archival datasets.</li>
+<li>**SiMSAM** (with Brian Gravel; Geisel Software) [2012-2017]{.flushright}  
+Integrated stop-action moviemaking, simulation, and measurement toolkit for scientific modeling.</li>
+<li>**DeltaTick** (With Aditi Wagh and Uri Wilensky) [2010-2012]{.flushright}  
+Domain-specific block-based programming interface for the NetLogo modeling environment.</li>
+<li>**Categorizer** [2009-2011]{.flushright}  
+Interactive online gallery to allow learners to share, classify & compare computational artifacts.</li>
+<li>**NetLogo Models Library Contributions** [2006-2011]{.flushright}	
+Vee Flocking (with Forrest Stonedahl), 3D GasLab Suite, Chaos Suite, Surface Walking.</li>
+<li>**Ubiquitous Presenter** (with Beth Simon and William Griswold). [2004-2005]{.flushright}
+Tablet-based slide annotation and student response tool for large lecture-based classrooms.</li>
+:::
+
 ## Refereed Conference Presentations
 
 ### Paper Presentations
 
 <ol reversed>
+<li>Fuhrmann, T., Henrique, B., Eloy, A., Rosenbaum, L., Wagh, A., Blikstein, P., & Wilkerson, M. (2026). From Code to Chloroplasts: Speaking About Photosynthesis through Computational Modeling. Full paper to be presented at the National Association for Research in Science Teaching (NARST ’26), Seattle, WA, USA.</li>
 <li>Wilkerson, M. H, Kim, J.\*, & Stokes, D. J.\* (2024). Heuristics for Sociocritical Engagement with Data Artifacts: Why, When, and How Might Teachers Use Them? Full paper to be presented at the 2024 Annual Meeting of the American Educational Research Association (AERA’24), Philadelphia, PA, USA.</li> 
 <li>Foley, E.\* & Wilkerson, M. H. (2024). Classroom Accessibility as a Sociotechnical System: The Case of Data Visualization Literacy. Roundtable paper to be presented at AERA’24, Philadelphia, PA, USA.</li>
 <li>Fitzmaurice, H. L. ‡ & Wilkerson, M. H. (2024). Community Organizing for Climate Change and Environmental Justice Instruction at the School District Level. 2024 Annual Meeting of the National Association for Research on Science Teaching (NARST’24). Denver, CO. March 18.</li>
@@ -344,39 +374,15 @@ Constructing for Learning: An Open House for Technologies in Education
 <li>Wilkerson, M. (2004). Knot theory fashion: Brunnian style, infinite possibilities. Presented at Student Poster Session, Southern California & Nevada Section of the Mathematical Association of America, San Diego, CA, USA. March 6. Best Student Poster Award.</li>
 </ol>
 
-## Software and Curricular Products
-
-:::{.list-indent} 
-**Show Your Work (SyW)** [2025-Present]{.flushright}  
-A gentle introduction to Jupyter notebooks for K-12 teachers  
-**DSE-citan** [2024-Present]{.flushright}  
-Quarto notebook for bibliometric analysis of the “Data Science Education” literature	
-**MoDa** (Modeling and Data: with Tamar Fuhrmann, Aditi Wagh, Paulo Blikstein) [2019-Present]{.flushright}  
-Drag and drop toolkit that integrates agent-based modeling with data analysis.	
-**DataBytes** (with Hollylynne Lee, David Stokes, Eddie Rivero, and Lisette Lopez) [2022]{.flushright}  
-Data visualization discussion protocol released under CC-BY-NC-4.0	
-**DataSketch** (with Radiant Llama; Agile Global Solutions)	[2014-2018]{.flushright}  
-Data visualization toolkit; digital ink objects programmed to respond to live or archival datasets.
-**SiMSAM** (with Brian Gravel; Geisel Software) [2012-2017]{.flushright}  
-Integrated stop-action moviemaking, simulation, and measurement toolkit for scientific modeling.
-**DeltaTick** (With Aditi Wagh and Uri Wilensky) [2010-2012]{.flushright}  
-Domain-specific block-based programming interface for the NetLogo modeling environment.
-**Categorizer** [2009-2011]{.flushright}  
-Interactive online gallery to allow learners to share, classify & compare computational artifacts.
-**NetLogo Models Library Contributions** [2006-2011]{.flushright}	
-Vee Flocking (with Forrest Stonedahl), 3D GasLab Suite, Chaos Suite, Surface Walking.  
-**Ubiquitous Presenter** (with Beth Simon and William Griswold). [2004-2005]{.flushright}
-Tablet-based slide annotation and student response tool for large lecture-based classrooms. 
-:::
-
 ## Teaching
 
 ### Courses
 
 :::{.list-indent} 
+EDUC 290C: STEM and Friends Research Group [SP26]{.flushright}  
+EDUC 295B: Technology, Curriculum, and Instruction [SP17, every Spring '19-'24, '26]{.flushright}  
 EDUC 130: Knowing and Learning in Mathematics and Science [FA24]{.flushright}  
-EDUC 375: The Art of Teaching [SP24]{.flushright}  
-EDUC 295B: Technology, Curriculum, and Instruction [SP17, every Spring '19-'24]{.flushright}  
+EDUC 375: The Art of Teaching [SP24]{.flushright}
 EDUC 209 (formerly 223B): Academic Writing Group [FA17, SP18, every semester SP19-FA23, FA24]{.flushright}  
 UGIS/EDUC c122: Rsch Meth for K12 Math and Sci Tch (CalTeach) [SP20, every Fall '20-'23]{.flushright}  
 EDUC 150/170: K-12 Computing and Data Science Education [FA20, SP21]{.flushright}  
@@ -441,7 +447,6 @@ With members of the Center for Connected Learning. Constructionism 2010. Paris, 
 <li>**NetLogo Workshops at Northwestern University**	[2010]{.flushright}  
 Led 3 workshops for curriculum designers, teachers, complexity science researchers.</li>
 </ul>
-:::
 
 ## Service
 
