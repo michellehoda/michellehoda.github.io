@@ -34,7 +34,7 @@ Mathematics (BA); Diversified Liberal Arts (BA) [2005]{.flushright}
 
 <ol reversed>
 <li> @wilkerson_situating_2020</li>
-<li> @wilkerson_situating_2022</li>
+ <ul><li>Republished as: @wilkerson_situating_2022</li></ul>
 <li> @wilkerson_stories_2020</li>
 </ol>
 
