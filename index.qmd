@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "Michelle Hoda Wilkerson"
 image: img/profile.jpg
 about:
   template: trestles  # Options: jolla, trestles, solana, marquee
