@@ -468,6 +468,7 @@ NSF Workshop: Youth, Learning, and Data Science Summit. August 11-12, University
 ### Editorial Boards
 
 :::{.list-indent} 
+**Associate Editor**, Harvard Data Science Review [2026-Present]{.flushright}  
 **Associate Editor**, Statistics Education Research Journal [2025-Present]{.flushright}  
 **Associate Editor**, Journal of Statistics and Data Science Education [2021-Present]{.flushright}  
 **Editorial Board Member**, Cognition and Instruction [2020-Present]{.flushright}  
