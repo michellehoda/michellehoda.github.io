@@ -14,15 +14,15 @@ about:
 
 I'm an Associate Professor at the UC Berkeley School of Education, where I direct the [Computing, Reasoning, and Expression (CoRE) Lab](https://corelab.berkeley.edu) at UC Berkeley. Our recent projects include: 
 
-- [Show Your Work (SyW)](https://github.com/CalCoRE/show-your-work), exploring teachers' perceptions and understanding of computational notebooks.
+- [**Show Your Work (SyW)**](https://github.com/CalCoRE/show-your-work), exploring teachers' perceptions and understanding of computational notebooks.
 
-- [MoDa](https://moda.education), developing tools for integrating computational modeling and data analysis in middle school science. 
+- [**MoDa (Modeling + Data)**](https://moda.education), developing tools for integrating computational modeling and data analysis in middle school science. 
 
-- [Rivulet](https://github.com/CalCoRE/rivulet-utils), a set of Jupyter and CODAP tools designed to help educators identify and fetch the most pedagogically generative "slices" of data from live national databases for use with students.
+- [**Rivulet**](https://github.com/CalCoRE/rivulet-utils), a set of Jupyter and CODAP tools to identify and fetch pedagogically generative "slices" of data from live national databases.
 
-- [Writing Data Stories (WDS)](https://corelab.berkeley.edu/2022/11/18/writing-data-stories/), tools and activities for integrating data storytelling into science investigations.
+- [**Writing Data Stories (WDS)**](https://corelab.berkeley.edu/2022/11/18/writing-data-stories/), tools and activities for integrating data storytelling into science investigations.
 
-- The [Data Science Education (DSEd) Fellowship](https://ls.berkeley.edu/news/social-sciences-d-lab-supports-fellowship-expand-accessibility-data-science-education), bringing three postdoctoral scholars to Berkeley to study the landscape of Data Science Education across units and levels.
+- The [**Data Science Education (DSEd) Fellowship**](https://ls.berkeley.edu/news/social-sciences-d-lab-supports-fellowship-expand-accessibility-data-science-education), bringing three postdoctoral scholars to Berkeley to study the landscape of Data Science Education across units and levels.
 
 I teach classes in learning theory, computing and data science education, STEM teaching methods, and educational research. In addition to making empirical and theoretical contributions, our group develops and publishes tools and resources to support engaging, relevant, data-rich teaching across the STEM curriculum.
 
