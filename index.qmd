@@ -10,8 +10,6 @@ about:
       href: https://orcid.org/0000-0001-8250-068X
     - text: "{{< ai osf >}}"
       href: https://osf.io/v5xn2/
-    - text: "{{< ai github >}}"
-      href: https://github.com/michellehoda
 ---
 
 I'm an Associate Professor at the UC Berkeley School of Education, where I direct the [Computing, Reasoning, and Expression (CoRE) Lab](https://corelab.berkeley.edu) at UC Berkeley. Our recent projects include: 
@@ -20,7 +18,7 @@ I'm an Associate Professor at the UC Berkeley School of Education, where I direc
 
 - [MoDa](https://moda.education), developing tools for integrating computational modeling and data analysis in middle school science. 
 
-- [Rivulet](https://github.com/CalCoRE/rivulet-utils), a set of Python Jupyter notebooks and CODAP plugins designed to help educators find the most pedagogically generative "slices" data from live national databases for use with students.
+- [Rivulet](https://github.com/CalCoRE/rivulet-utils), a set of Jupyter and CODAP tools designed to help educators identify and fetch the most pedagogically generative "slices" of data from live national databases for use with students.
 
 - [Writing Data Stories (WDS)](https://corelab.berkeley.edu/2022/11/18/writing-data-stories/), tools and activities for integrating data storytelling into science investigations.
 
