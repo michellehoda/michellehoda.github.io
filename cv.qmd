@@ -202,6 +202,7 @@ Constructing for Learning: An Open House for Technologies in Education
 
 <ol reversed>
 <li>@wilkerson-2026-rivulet</li>
+<li>@miller2025exploring</li>
 <li>@kemble_storytelling_2024</li>
 <li>@lee_data_2024</li>
 <li>@wagh_ontological_2023-1</li>
@@ -238,7 +239,9 @@ Constructing for Learning: An Open House for Technologies in Education
 ### Academic Talks
 
 <ul>
-<li>**Keynote Presentation at CERME-14 (Dialog with Rolf Biehler)** (Feb 2025). The new role of data in society: Challenges and opportunities for mathematics education in the age of data science and AI. Bozen-Bolzano, Italy.</li>
+<li>**Opening Keynote for eCOTS26** (June 2026). Exploring Learning with Data Across the Curriculum and Beyond. Electronic Conference on the Teaching of Statistics.</li>
+<li>**Keynote Presentation at AIDEA25 (Co-Presenter with Kate Miller)** (Feb 2025). Exploring a US framework of learning progressions for K-12 data science education. Symposium on Integrating AI and Data Science into School Education Across Disciplines. Salzberg, Austria.</li>
+<li>**Keynote Presentation at CERME-14 (Dialog with Rolf Biehler)** (Feb 2025). The new role of data in society: Challenges and opportunities for mathematics education in the age of data science and AI. Congress of European Researchers in Mathematics Education. Bozen-Bolzano, Italy.</li>
 <li>**University of Paderborn Colloquium Series on Data Science and Artificial Intelligence in School** (June 2022). A Framework for Exploring the Purposes and Processes of Data Wrangling in Complex Self-Directed Analysis Tasks University of Paderborn, Germany. (Lecture delivered online)  </li>
 <li>**BSCS Science Learning Seminar Series** (May 2022).  Learning through Data, Experience, and Histories in the Writing Data Stories Project. BSCS Science Learning, Colorado Springs, CO, USA. (Lecture delivered online)  </li>
 <li>**2021 Jan Hawkins Award Address** (April 2021). Learning from Youths’ Resistance in the Design of Scientific Computing Activities. Annual Conference of the American Educational Research Association, Conference Online Only. </li>
