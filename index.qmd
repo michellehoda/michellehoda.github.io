@@ -12,7 +12,7 @@ about:
       href: https://osf.io/v5xn2/
 ---
 
-I'm an Associate Professor at the UC Berkeley School of Education, where I direct the [Computing, Reasoning, and Expression (CoRE) Lab](https://corelab.berkeley.edu) at UC Berkeley. Our recent projects include: 
+I'm an Associate Professor at the UC Berkeley School of Education, where I direct the [Computing, Reasoning, and Expression (CoRE) Lab](https://calcore.github.io/website/) at UC Berkeley. Our recent projects include: 
 
 - [**Show Your Work (SyW)**](https://github.com/CalCoRE/show-your-work), exploring teachers' perceptions and understanding of computational notebooks.
 
