@@ -205,14 +205,14 @@ Constructing for Learning: An Open House for Technologies in Education
 <ol reversed>
 <li>@zotero-item-2034</li>
 <li>@wagh_putting_2026</li>
-<li>@wilkerson-2026-rivulet</li>
-<li>@miller2025exploring</li>
+<li>@wilkerson_rivulet_2026</li>
+<li>@miller_exploring_2025</li>
 <li>@kemble_storytelling_2024</li>
 <li>@lee_data_2024</li>
-<li>@wagh_ontological_2023-1</li>
-<li>@reigh_paths_2022-1</li>
-<li>@roberto_student_2022-1</li>
-<li>@wolf_after_2022-1</li>
+<li>@wagh_ontological_2023</li>
+<li>@reigh_paths_2022</li>
+<li>@roberto_student_2022</li>
+<li>@wolf_after_2022</li>
 <li>@wilkerson_reflective_2021</li>
 <li>@thoma_it_2017</li>
 <li>@wilkerson_data_2018</li>
