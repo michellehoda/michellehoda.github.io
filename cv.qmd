@@ -386,7 +386,8 @@ Tablet-based slide annotation and student response tool for large lecture-based 
 ### Courses
 
 :::{.list-indent} 
-EDUC 290C: STEM and Friends Research Group [SP26]{.flushright}  
+EDUC 209: Academic Writing Group [FA21, SP22, FA22, SP23, FA23, FA24, FA26]{.flushright}
+EDUC 290C: STEM and Friends Research Group [SP26]{.flushright}
 EDUC 295B: Technology, Curriculum, and Instruction [SP17, every Spring '19-'24, '26]{.flushright}  
 EDUC 130: Knowing and Learning in Mathematics and Science [FA24]{.flushright}  
 EDUC 375: The Art of Teaching [SP24]{.flushright}
