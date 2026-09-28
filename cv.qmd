@@ -41,9 +41,10 @@ Mathematics (BA); Diversified Liberal Arts (BA) [2005]{.flushright}
 ### Refereed Journal Articles
 
 <ol reversed>
-<li>@wilkerson-2026-zdm</li>
-<li>@fuhrmann-2026-2</li>
-<li>@wilkerson_how_2025-1</li>
+<li>@reigh_syncretic_2026</li>
+<li>@wilkerson_open_2026</li>
+<li>@fuhrmann_designing_2026</li>
+<li>@wilkerson_how_2026</li>
 <li>@wilkerson_mapping_2025</li>
 <li>@wilkerson_how_2025</li>
 <li>@wagh_toward_2025</li>
@@ -68,11 +69,11 @@ Mathematics (BA); Diversified Liberal Arts (BA) [2005]{.flushright}
 <li>@wilkerson_agents_2009</li>
 </ol>
 
-### Book Chapters
+### Refereed Book Chapters
 
 <ol reversed>
-<li>@barton_layered_nodate</li>
-<li>@fuhrmann-2026</li>
+<li>@barton_layered_2026</li>
+<li>@fuhrmann_modality_2026</li>
 <li>@reigh_critical_nodate</li>
 <li>@biehler_new_2025</li>
 <li>@wilkerson_learning_2022</li>
@@ -84,10 +85,11 @@ Mathematics (BA); Diversified Liberal Arts (BA) [2005]{.flushright}
 <li>@beer_magics_2011</li>
 </ol>
 
-### Invited Contributions and Book Reviews
+### Invited Contributions, Commentaries, and Book Reviews
 
 <ol reversed>
-<li>@wilkerson_foreword_nodate</li>
+<li>@wagh_programming_nodate</li>
+<li>@wilkerson_foreword_2026</li>
 <li>@henrique_who_2023</li>
 <li>@wilkerson_open_2015</li>
 </ol>
@@ -201,6 +203,8 @@ Constructing for Learning: An Open House for Technologies in Education
 ### Short Papers, Posters, Demos, and Workshop Leadership [Refereed]
 
 <ol reversed>
+<li>@zotero-item-2034</li>
+<li>@wagh_putting_2026</li>
 <li>@wilkerson-2026-rivulet</li>
 <li>@miller2025exploring</li>
 <li>@kemble_storytelling_2024</li>
