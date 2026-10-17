@@ -48,6 +48,7 @@ Mathematics (BA); Diversified Liberal Arts (BA) [2005]{.flushright}
 <li>@wilkerson_mapping_2025</li>
 <li>@wilkerson_how_2025</li>
 <li>@wagh_toward_2025</li>
+<li>@bristol_designing_2025</li>
 <li>@fuhrmann_right_2025</li>
 <li>@lanouette_exploring_2024</li>
 <li>@reigh_mapping_2022</li>
@@ -180,6 +181,8 @@ Constructing for Learning: An Open House for Technologies in Education
 ### Full Papers [Stringently Refereed]
 
 <ol reversed>
+<li>@wagh_designing_2025</li>
+<li>@foley_teachers_2025</li>
 <li>@fitzmaurice_activism_2024 -- **Best Paper Award**</li>
 <li>@eloy_decomposing_2024 -- **Best Student Paper Award**</li>
 <li>@fuhrmann_how_2023</li>
@@ -207,6 +210,8 @@ Constructing for Learning: An Open House for Technologies in Education
 <li>@wagh_putting_2026</li>
 <li>@wilkerson_rivulet_2026</li>
 <li>@miller_exploring_2025</li>
+<li>@fuhrmann_computational_2025</li>
+<li>@sezen-barrie_climate_2025</li>
 <li>@kemble_storytelling_2024</li>
 <li>@lee_data_2024</li>
 <li>@wagh_ontological_2023</li>
