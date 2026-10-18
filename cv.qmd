@@ -109,7 +109,8 @@ Mathematics (BA); Diversified Liberal Arts (BA) [2005]{.flushright}
 ## Awards and Sponsorships
 
 :::{.list-indent} 
-**Mid-Career Workshop** International Society of the Learning Sciences [2022]{.flushright}.  
+**Presidential Honor** For transformative service to the International Society of the Learning Sciences [2026]{.flushright} 
+**Mid-Career Workshop** International Society of the Learning Sciences [2022]{.flushright}  
 **Reviewer of the Year** Journal of the Learning Sciences [2021]{.flushright}  
 **Jan Hawkins Award** American Educational Research Association Division C [2020]{.flushright}  
 **Transformative Teacher Educator Fellowship** Arcadia University [2018]{.flushright}  
@@ -132,7 +133,7 @@ Integrating Computational Modeling with Data in Environmental Sciences
 PI, **NSF Organizational Postdoctoral Research Fellowship (oPRF)** [2024-2027]{.flushright}  
 The Berkeley Data Science Education Fellowship: Ethical and Inclusive Data Science in a Shifting Landscape  
 (Award 2430522; $1.25M; with Z. Pardos, A. Strang, E. Van Dusen, C. Von Vacano, and L. Yan)  
-Co-PI, **University of California Office of the President Climate Action Seed Grant** [2023-2025]{.flushright}  
+Co-PI, **University of California Office of the President Climate Action Seed Grant** [2023-2026]{.flushright}  
 Supporting Teachers in Implementing Justice-Centered Climate Change Pedagogy   
 ($1.4M; led by BSE/CoRE Research Scientist Helen Fitzmaurice)
 :::
@@ -286,6 +287,7 @@ Constructing for Learning: An Open House for Technologies in Education
 ## Software and Curricular Products
 
 :::{.list-indent} 
+<li>**Rivulet** [2025-Present]{.flushright} Python notebooks and CODAP plugins to help educators and designers access pedagogically-generative slices of large, public datasets</li>
 <li>**Show Your Work (SyW)** [2025-Present]{.flushright}  
 A gentle introduction to Jupyter notebooks for K-12 teachers</li>
 <li>**DSE-citan** [2024-Present]{.flushright}  
@@ -313,7 +315,7 @@ Tablet-based slide annotation and student response tool for large lecture-based 
 ### Paper Presentations
 
 <ol reversed>
-<li>Fuhrmann, T., Henrique, B., Eloy, A., Rosenbaum, L., Wagh, A., Blikstein, P., & Wilkerson, M. (2026). From Code to Chloroplasts: Speaking About Photosynthesis through Computational Modeling. Full paper to be presented at the National Association for Research in Science Teaching (NARST ’26), Seattle, WA, USA.</li>
+<li>Fuhrmann, T., Henrique, B.*, Eloy, A., Rosenbaum, L., Wagh, A., Blikstein, P., & Wilkerson, M. (2026). From Code to Chloroplasts: Speaking About Photosynthesis through Computational Modeling. Full paper to be presented at the National Association for Research in Science Teaching (NARST ’26), Seattle, WA, USA.</li>
 <li>Wilkerson, M. H, Kim, J.\*, & Stokes, D. J.\* (2024). Heuristics for Sociocritical Engagement with Data Artifacts: Why, When, and How Might Teachers Use Them? Full paper to be presented at the 2024 Annual Meeting of the American Educational Research Association (AERA’24), Philadelphia, PA, USA.</li> 
 <li>Foley, E.\* & Wilkerson, M. H. (2024). Classroom Accessibility as a Sociotechnical System: The Case of Data Visualization Literacy. Roundtable paper to be presented at AERA’24, Philadelphia, PA, USA.</li>
 <li>Fitzmaurice, H. L. ‡ & Wilkerson, M. H. (2024). Community Organizing for Climate Change and Environmental Justice Instruction at the School District Level. 2024 Annual Meeting of the National Association for Research on Science Teaching (NARST’24). Denver, CO. March 18.</li>
